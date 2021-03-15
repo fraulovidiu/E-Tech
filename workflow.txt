@@ -1,0 +1,6 @@
+1. Alegere produse + imagini + creeare JSON ( id, title, price, description, category,)
+
+    1.2. Creeare div produs + stilizare 
+    1.3. Finalizare navbar ?? + stilizare pagina ca si firstlook - quite done
+
+2. Pagina produsului ( details.html) ?????
