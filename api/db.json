@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Apple Iphone 12 Pro Max Gold",
+      "price": 1199,
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/1/4/143563_2.jpg",
+      "description": "The new iPhone 12 Pro Max is the only member of Series 12 to pack the new and improved triple-camera on the back. This might be even enough to entice users who may not even be after the Max size. That is how a proper upgrade should be done - by updating every aspect possible, not just the design."
+    },
+    {
+      "id": "2",
+      "title": "Apple Iphone 12 Pro Max Blue",
+      "price": 1099,
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/1/4/143564_2.jpg",
+      "description": "The new iPhone 12 Pro Max is the only member of Series 12 to pack the new and improved triple-camera on the back. This might be even enough to entice users who may not even be after the Max size. That is how a proper upgrade should be done - by updating every aspect possible, not just the design."
+    },
+    {
+      "id": 3,
+      "title": "Apple Iphone 12 Mint",
+      "price": 830,
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/1/4/143527_2_1.jpg",
+      "description": "iPhone 12. 5G to download movies on the fly and stream high-quality video. Beautifully bright 6.1-inch Super Retina XDR display. Ceramic Shield with 4x better drop performance. Incredible low-light photography with Night mode on all cameras. Cinema-grade Dolby Vision video recording, editing, and playback. Powerful A14 Bionic chip. And new MagSafe accessories for easy attach and faster wireless charging. Let the fun begin."
+    },
+    {
+      "id": "4",
+      "title": "Apple Iphone 12 Red",
+      "price": 830,
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/1/4/143525_2_1.jpg",
+      "description": "iPhone 12. 5G to download movies on the fly and stream high-quality video. Beautifully bright 6.1-inch Super Retina XDR display. Ceramic Shield with 4x better drop performance. Incredible low-light photography with Night mode on all cameras. Cinema-grade Dolby Vision video recording, editing, and playback. Powerful A14 Bionic chip. And new MagSafe accessories for easy attach and faster wireless charging. Let the fun begin."
+    },
+    {
+      "id": "5",
+      "title": "Samsung S21 Ultra Black",
+      "price": 1450,
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/144717_6.jpg",
+      "description": "This year, the Galaxy S21 series came earlier than expected, and it brought a slew of changes. The Galaxy S21 and S21+ now feature lower-res OLEDs, no microSD expansion, and no chargers in the box. Meanwhile, the Galaxy S21 Ultra is what the original Ultra should have been - jam-packed with high-end features, no asterisks, no fine print"
+    },
+    {
+      "id": "6",
+      "title": "Samsung S21 Violet",
+      "price": 750,
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/144728_3.jpg",
+      "description": "The chipset is the same on all three (still different from region to region, but that's a whole other topic), all have the second-gen ultrasonic fingerprint reader from Qualcomm, as well as stereo speakers and IP68 rating for dust and water resistance."
+    },
+    {
+      "id": "7",
+      "title": "Xiaomi Mi 10T Pro",
+      "price": 450,
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/m/z/mzb07zxeu_3_1.jpg",
+      "description": "It packs everything you'd expect from a 2020 flagship - Snapdragon 865 SoC, 108MP main camera aided by a macro and ultra-wide although, there's no proper telephoto. There's also a significant increase in battery capacity over the last generation jumping to 5,000 mAh and last, but not least, a high-refresh-rate display - a 144Hz one at that."
+    },
+    {
+      "id": "8",
+      "title": "Oppo Reno 5 5G",
+      "price": 500,
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/1/4/146148_5.jpg",
+      "description": "Want sharp, incredible, and dynamic shots? With a 64MP main camera that's supported by multiple auxiliary cameras, plus an impressive 32MP front camera, every shot you take will be stunning."
+    },
+    {
+      "id": "9",
+      "title": "Samsung Galaxy A72",
+      "price": 450,
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/m/z/mzb07zxeu_3_1.jpg",
+      "description": "It packs everything you'd expect from a 2020 flagship - Snapdragon 865 SoC, 108MP main camera aided by a macro and ultra-wide although, there's no proper telephoto. There's also a significant increase in battery capacity over the last generation jumping to 5,000 mAh and last, but not least, a high-refresh-rate display - a 144Hz one at that."
+    },
+    {
+      "id": "10",
+      "title": "One Plus Nord N10 5G",
+      "price": 300,
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/m/z/mzb07zxeu_3_1.jpg",
+      "description": "It packs everything you'd expect from a 2020 flagship - Snapdragon 865 SoC, 108MP main camera aided by a macro and ultra-wide although, there's no proper telephoto. There's also a significant increase in battery capacity over the last generation jumping to 5,000 mAh and last, but not least, a high-refresh-rate display - a 144Hz one at that."
+    }
+  ]
+}

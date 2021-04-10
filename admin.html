@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./node_modules/font-awesome/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="./node_modules/bootswatch/dist/lux/bootstrap.min.css"/>
+</head>
+<body>
+        <div id="admin-form">
+                
+            <div class = "container-products" id="container-products">
+                <h5> Add new product </h5>
+                    <input 
+                        type="text" 
+                        id= "title" 
+                        class = "form-control" 
+                        placeholder = "Add title here">
+                    <input 
+                        type="text" 
+                        id= "image" 
+                        class = "form-control" 
+                        placeholder = "Add image here">
+                    <input 
+                        type="text" 
+                        id= "price" 
+                        class = "form-control" 
+                        placeholder = "Add price here">
+                    <textarea
+                        type="text" 
+                        id= "description" 
+                        class = "form-control" 
+                        placeholder = "Add description here">
+                    </textarea> 
+                <button class = "btn-add-product" id="add-product">Add product</button>
+            </div>
+                <div class="border"></div>
+                </div>
+            <div id="admin-control">
+                <table id="table-admin">
+                    
+                    <thead>
+                        <tr>
+                            <th>Image</th>
+                            <th>Title</th>
+                            <th>Price</th>
+                            <th>Quantity</th>
+                            <th>Delete Product</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+                    </tbody>
+                </table>
+
+            </div>
+
+            </div>
+    </div>
+
+    <script src="src/app.js" type="module"></script>
+    <script src="src/admin.js" type="module"></script>
+</body>
+</html>
