@@ -1,0 +1,62 @@
+/* ADD NEW PRODUCT FORM */
+div.container-products {
+    width: 700px;
+    padding: 100px;
+    margin-left: 600px;
+}
+
+h5{
+    margin-left:160px
+}
+
+.form-control {
+    box-sizing: border-box;
+    margin: 10px;
+    border: 1px black;
+    border-style: solid;
+    border-radius: 2.5px;
+    }
+
+#add-product {
+    margin:50px 0px 100px 200px;
+}
+
+/* ADMIN  TABLE*/
+.admin-card-img {
+    width: 200px;
+    height: auto;
+}
+
+div#admin-control {
+    display: flex;
+    justify-content: space-between;
+    border-collapse: collapse;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
+
+td {
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+th {
+    width:1000px;
+    text-align: center;
+}
+
+/* REMOVE BUTTON  */
+
+i.far{
+    color: red;
+    
+}
+
+button.card-button {
+    border: 0px;
+    background: white;
+    font-size: 50px;
+}

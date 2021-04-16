@@ -5,20 +5,31 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>E-Tech</title>
-  <link rel="stylesheet" href="./node_modules/font-awesome/css/font-awesome.min.css"/>
+  <!-- Utilities -->
+  <!-- <link rel="stylesheet" href="./node_modules/font-awesome/css/font-awesome.min.css"/> -->
   <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css"/>
   <link rel="stylesheet" href="./node_modules/bootswatch/dist/lux/bootstrap.min.css"/>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 <body>
+  <!-- Navbar -->
   <nav class="navbar navbar-dark bg-secondary mb-3">
       <div class="container">
         <a href="index.html" class="navbar-brand" style="color: black">E-Tech</a>
       </div> 
-      <div class="cart-admin-btn">
-        <a href="cart.html">Cart<a class="glyphicon glyphicon-user"></a></a>
-        <a href="admin.html">Admin<i class="fas fa-shopping-cart"></i></a>
-      </div>
+      <ul class="navbar-btn">
+        <li>
+        <a href="cart.html"><i class="fas fa-shopping-cart" aria-hidden="true"></i></a>
+        <a href="admin.html"><i class="fas fa-user-shield" aria-hidden="true"></i></a>
+      </li>
+      </ul>
     </nav>
+    <!-- End of Navbar -->
+    <!-- Welcome slider -->
+    
+    <!-- End of Welcome Slider -->
+    <!-- Products showoff -->
     <div id="products" class="card-columns"></div>
 <script src="src/app.js" type="module" ></script>
 </body>
