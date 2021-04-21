@@ -46,3 +46,7 @@ function deleteProduct(e) {
 			.catch('Error on delete!');
 	}
 }
+
+function showProducts () {
+	
+}

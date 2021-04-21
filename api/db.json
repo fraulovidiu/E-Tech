@@ -2,73 +2,262 @@
   "products": [
     {
       "id": "1",
-      "title": "Apple Iphone 12 Pro Max Gold",
+      "title": "Apple Iphone 12 Pro Max Blue",
       "price": 1099,
-      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/1/4/143563_2.jpg",
-      "description": "The new iPhone 12 Pro Max is the only member of Series 12 to pack the new and improved triple-camera on the back. This might be even enough to entice users who may not even be after the Max size. That is how a proper upgrade should be done - by updating every aspect possible, not just the design."
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/143563_2.jpg",
+      "description": "Processor: Apple A14 Bionic <br> Storage: 512 GB <br> Display: 6.7 inches <br> Camera: 12 MP (wide) + 12 MP (telephoto) + 12 MP (ultrawide) cameras"
     },
     {
       "id": "2",
       "title": "Apple Iphone 12 Pro Max Blue",
       "price": 1099,
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/1/4/143564_2.jpg",
-      "description": "The new iPhone 12 Pro Max is the only member of Series 12 to pack the new and improved triple-camera on the back. This might be even enough to entice users who may not even be after the Max size. That is how a proper upgrade should be done - by updating every aspect possible, not just the design."
+      "description": "Processor: Apple A14 Bionic <br> Storage: 512 GB <br> Display: 6.7 inches <br> Camera: 12 MP (wide) + 12 MP (telephoto) + 12 MP (ultrawide) cameras"
     },
     {
       "id": 3,
       "title": "Apple Iphone 12 Mint",
       "price": 830,
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/1/4/143527_2_1.jpg",
-      "description": "iPhone 12. 5G to download movies on the fly and stream high-quality video. Beautifully bright 6.1-inch Super Retina XDR display. Ceramic Shield with 4x better drop performance. Incredible low-light photography with Night mode on all cameras. Cinema-grade Dolby Vision video recording, editing, and playback. Powerful A14 Bionic chip. And new MagSafe accessories for easy attach and faster wireless charging. Let the fun begin."
+      "description": "Processor: Apple A14 Bionic <br> Storage: 64GB <br> Display: 6.1 inches <br> Camera: 12 MP (wide) + 12 MP (ultrawide) "
     },
     {
       "id": "4",
       "title": "Apple Iphone 12 Red",
       "price": 830,
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/1/4/143525_2_1.jpg",
-      "description": "iPhone 12. 5G to download movies on the fly and stream high-quality video. Beautifully bright 6.1-inch Super Retina XDR display. Ceramic Shield with 4x better drop performance. Incredible low-light photography with Night mode on all cameras. Cinema-grade Dolby Vision video recording, editing, and playback. Powerful A14 Bionic chip. And new MagSafe accessories for easy attach and faster wireless charging. Let the fun begin."
+      "description": "Processor: Apple A14 Bionic <br> Storage: 64GB <br> Display: 6.1 inches <br> Camera: 12 MP (wide) + 12 MP (ultrawide) "
     },
     {
       "id": "5",
       "title": "Samsung S21 Ultra Black",
       "price": 1450,
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/144717_6.jpg",
-      "description": "This year, the Galaxy S21 series came earlier than expected, and it brought a slew of changes. The Galaxy S21 and S21+ now feature lower-res OLEDs, no microSD expansion, and no chargers in the box. Meanwhile, the Galaxy S21 Ultra is what the original Ultra should have been - jam-packed with high-end features, no asterisks, no fine print"
+      "description": "Processor: Exynos 2100 (8-core) <br> Storage: 128GB <br> Display: 6.8 inches <br> Camera: 12MP (ultrawide) + 108MP (wide) + 10MP (telephoto) + 10MP (Periscope Telephoto) "
     },
     {
       "id": "6",
       "title": "Samsung S21 Violet",
       "price": 750,
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/144728_3.jpg",
-      "description": "The chipset is the same on all three (still different from region to region, but that's a whole other topic), all have the second-gen ultrasonic fingerprint reader from Qualcomm, as well as stereo speakers and IP68 rating for dust and water resistance."
+      "description": "Processor: Exynos 2100 (8-core) <br> Storage: 128GB <br> Display: 6.2 inches <br> Camera: 12 MP (wide) + 12 MP (ultrawide) + 64 MP (telephoto)"
     },
     {
       "id": "7",
       "title": "Xiaomi Mi 10T Pro",
       "price": 450,
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/m/z/mzb07zxeu_3_1.jpg",
-      "description": "It packs everything you'd expect from a 2020 flagship - Snapdragon 865 SoC, 108MP main camera aided by a macro and ultra-wide although, there's no proper telephoto. There's also a significant increase in battery capacity over the last generation jumping to 5,000 mAh and last, but not least, a high-refresh-rate display - a 144Hz one at that."
+      "description": "Processor: Qualcomm Snapdragon 865 (8-core) <br> Storage: 128GB <br> Display: 6.67 inches <br> Camera: 108 MP (wide) + 13 MP (ultrawide) + 5 MP (macro) "
     },
     {
       "id": "8",
       "title": "Oppo Reno 5 5G",
       "price": 500,
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/1/4/146148_5.jpg",
-      "description": "Want sharp, incredible, and dynamic shots? With a 64MP main camera that's supported by multiple auxiliary cameras, plus an impressive 32MP front camera, every shot you take will be stunning."
+      "description": "Processor: Qualcomm Snapdragon 765G (8-core) <br> Storage: 128GB <br> Display: 6.43 inches <br> Camera: 64 MP (wide) + 8 MP (ultrawide) + 2 MP (depth) + 2 MP (macro)"
     },
     {
       "id": "9",
       "title": "Samsung Galaxy A72",
       "price": 450,
-      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/m/z/mzb07zxeu_3_1.jpg",
-      "description": "It packs everything you'd expect from a 2020 flagship - Snapdragon 865 SoC, 108MP main camera aided by a macro and ultra-wide although, there's no proper telephoto. There's also a significant increase in battery capacity over the last generation jumping to 5,000 mAh and last, but not least, a high-refresh-rate display - a 144Hz one at that."
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/144834_5.jpg",
+      "description": "Processor: Qualcomm Snapdragon 720G (8-core)<br> Storage: 128GB <br> Display: 6.7 inches <br> Camera: 64 MP (OIS) + 12 MP (ultrawide) + 8 MP (telephoto) + 5 MP (Macro)"
     },
     {
       "id": "10",
       "title": "One Plus Nord N10 5G",
       "price": 300,
-      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/m/z/mzb07zxeu_3_1.jpg",
-      "description": "It packs everything you'd expect from a 2020 flagship - Snapdragon 865 SoC, 108MP main camera aided by a macro and ultra-wide although, there's no proper telephoto. There's also a significant increase in battery capacity over the last generation jumping to 5,000 mAh and last, but not least, a high-refresh-rate display - a 144Hz one at that."
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/o/n/oneplusnordn105g_1.jpg",
+      "description": "Processor: Snapdragon 690 (8-core) <br> Storage: 128GB <br> Display: 6.49 inches <br> Camera: 64 MP (wide) + 2 MP (ultrawide)  + 2 MP (macro) + 2 MP (telephoto)"
+    },
+    {
+      "title": "Xiaomi Redmi Note 10",
+      "price": "200",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/146168_3.jpg",
+      "description": "Processor: Qualcom Snapdragon 678 (8-core) <br>Storage: 128GB<br>Display: 6.49 Inches<br>Camera: 48 MP(wide) + 8MP(ultrawide) + 2MP(macro) + 2MP (depth)",
+      "id": "11"
+    },
+    {
+      "title": "Samsung Galaxy A21s",
+      "price": "180$",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/140727_2.jpg",
+      "description": "Processor: Cortex-A55 (8-core)<br>Storage: 32 GB<br>Display: 6.5 inches <br>Camera: 48 MP (wide) + 8 MP (ultrawide)+ 2 MP + (macro) +2 MP (depth)",
+      "id": "12"
+    },
+    {
+      "title": "Dell Inspiron 3501",
+      "price": "400",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/145617-1_1.jpg",
+      "description": "Display size: 15,6 inch Full HD (1920 x 1080)<br>Processor: Intel Core i3 @1200MHz<br>Memory: 4 GB RAM DDR4 ; 256GB SSD<br>GPU: Intel UHD Graphics<br>Ports: 2 x USB 3.0 ; 1 x USB 2.0<br>OS: Windows 10 Pro",
+      "id": "13"
+    },
+    {
+      "title": "HP 15-db1048nq",
+      "price": "400",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/145614-1.jpg",
+      "description": "DISPLAY SIZE: 15,6 INCH FULL HD (1920 X 1080)<br> PROCESSOR: AMD Ryzen 3 @2600MHz<br> MEMORY: 8 GB RAM DDR4 ; 256GB SSD<br> GPU: AMD RADEON GRAPHICS VEGA 3<br> PORTS: 2 X USB 3.1 ; 1 X USB 2.0<br> OS: WINDOWS 10 PRO",
+      "id": "14"
+    },
+    {
+      "title": " Lenovo IdeaPad 3 14AD05",
+      "price": "600",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/144957-1.jpg",
+      "description": "DISPLAY SIZE: 14 INCH FULL HD (1920 X 1080) <br>PROCESSOR: AMD RYZEN 5 @2100MHz<br> MEMORY: 8 GB RAM DDR4 ; 256GB SSD <br>GPU: AMD RADEON GRAPHICS VEGA 8<br> PORTS: 2 X USB 3.2 ; 1 X USB 2.0<br> OS: WINDOWS 10 PRO",
+      "id": "15"
+    },
+    {
+      "title": "Asus TUF F15 FX506LU",
+      "price": "1000",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/145149-1.jpg",
+      "description": "DISPLAY SIZE: 15,6 INCH FULL HD (1920 X 1080) <br>PROCESSOR: INTEL CORE I5 @2500MHZ <br> MEMORY: 8 GB RAM DDR4 ; 512GB SSD<br> GPU: DEDICATED NVIDIA GEFORCE GTX 1160 TI 6GB GDDR6 <br> PORTS: 2 X USB 3.2 ; 1 X USB 2.0  <br> OS: WINDOWS 10 PRO",
+      "id": "16"
+    },
+    {
+      "title": "Lenovo Legion 5 17IMH05",
+      "price": "1050",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/143105-1.jpg",
+      "description": "DISPLAY SIZE: 17,3 INCH FULL HD (1920 X 1080)<br> PROCESSOR: INTEL CORE I5 @2500MHZ<br> MEMORY: 8 GB RAM DDR4 ; 512GB SSD <br>GPU: DEDICATED NVIDIA GEFORCE GTX1650 4GB DDR6 <br>PORTS: 3 X USB 4.0 ; 1 X USB TYPE-C <br>OS: WINDOWS 10 PRO",
+      "id": "17"
+    },
+    {
+      "title": "Asus TUF F17",
+      "price": "1400",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/146656-1.jpg",
+      "description": "DISPLAY SIZE: 17,3 INCH FULL HD (1920 X 1080)<br> PROCESSOR: INTEL CORE I7 @2200MHZ<br> MEMORY: 8 GB RAM DDR4 ; 512GB SSD <br>GPU: DEDICATED NVIDIA GEFORCE GTX 1650 TI 4GB GDDR6<br>PORTS: 2 X USB 3.2 ; 1 X USB TYPE-C <br>OS: WINDOWS 10 PRO",
+      "id": "18"
+    },
+    {
+      "title": "Asus ROG Strix G15",
+      "price": "1000",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/145334-1.jpg",
+      "description": "DISPLAY SIZE: 15,6 INCH FULL HD (1920 X 1080)<br> PROCESSOR: INTEL CORE I7 @2200MHZ <br>MEMORY: 8 GB RAM DDR4 ; 256GB SSD<br> GPU: DEDICATED NVIDIA GEFORCE GTX1650TI 4GB GDDR6<br> PORTS: 3 X USB 3.2 ; 1 X USB TYPE-C<br> OS: WINDOWS 10 PRO",
+      "id": "19"
+    },
+    {
+      "title": "Apple MacBook Pro",
+      "price": "1500",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/144020-1_1.jpg",
+      "description": "DISPLAY SIZE: 13,3 INCH RETINA (2560 X 1600)<br> PROCESSOR: APPLE M1<br> MEMORY: 8 GB RAM ; 256GB SSD<br> GPU: APPLE M1 8-CORE<br> PORTS: 2 X Thunderbolt 4 <br>OS: MAC OS",
+      "id": "20"
+    },
+    {
+      "title": "Apple MacBook Pro 16 Touch Bar",
+      "price": "3000",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/3/138488-1.jpg",
+      "description": "DISPLAY SIZE: 16 INCH RETINA (3072 X 1920) <br>PROCESSOR: INTEL CORE I7 @2600MHZ <br>MEMORY: 16 GB RAM DDR4 ; 512GB SSD<br> GPU: AMD RADEON 4GB GDDR6<br> PORTS: 4 x USB TYPE-C<br> OS: MAC OS",
+      "id": "21"
+    },
+    {
+      "title": "Huawei Watch GT",
+      "price": "100",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/3/134145_3.jpg",
+      "description": "Display: 1,39 INCH Digital AMOLED <br>Storage: 128MB;<br>Compatibility: Android ios with Bluetooth 4.2<br>Belt: Silicone <br>Battery: 420 mAh",
+      "id": "22"
+    },
+    {
+      "title": "Huawei Watch GT 2",
+      "price": "150",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/3/138269_d1.jpg",
+      "description": "DISPLAY: 1,39 INCH DIGITAL AMOLED <br>STORAGE: 4GB;<br> COMPATIBILITY: ANDROID IOS WITH BLUETOOTH 4.1<br> BELT: LEATHER BATTERY: 455MAH",
+      "id": "23"
+    },
+    {
+      "title": "HUAWEI WATCH FIT",
+      "price": "100",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/650x650/9df78eab33525d08d6e5fb8d27136e95/1/4/142585-8.jpg",
+      "description": "DISPLAY: 1,64 INCH DIGITAL AMOLED <br>STORAGE: 4GB;<br> COMPATIBILITY: ANDROID IOS WITH BLUETOOTH 5,0 <br>BELT: SILICONE<br> BATTERY: 180 MAH",
+      "id": "24"
+    },
+    {
+      "title": "Amazfit GTS",
+      "price": "100",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/145162_1.jpg",
+      "description": "DISPLAY: 1,65 INCH AMOLED <br>STORAGE: 128MB;<br> COMPATIBILITY: ANDROID IOS WITH BLUETOOTH 5.0 <br>BELT: SILICONE <br>BATTERY: 220 MAH",
+      "id": "25"
+    },
+    {
+      "title": "Amazfit GTS 2",
+      "price": "150",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/145165_1.jpg",
+      "description": "DISPLAY: 1,39 INCH AMOLED <br>STORAGE: 128MB;<br> COMPATIBILITY: ANDROID IOS WITH BLUETOOTH 5.0 <br>BELT: SILICONE<br> BATTERY: 246MAH",
+      "id": "26"
+    },
+    {
+      "title": "Apple Watch Series 6",
+      "price": "480",
+      "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/142413_2.jpg",
+      "description": "DISPLAY: 1,57 INCH DIGITAL RETINA OLED<br> STORAGE: 32GB;<br> COMPATIBILITY: IOS WITH BLUETOOTH 5.0 <br>BELT: SILICONE <br>OS: WATCH OS 7.0",
+      "id": "27"
+    },
+    {
+      "title": "DJI Mavic Mini Combo",
+      "price": "450",
+      "image": "https://s13emagst.akamaized.net/products/26682/26681128/images/res_4026f5da5e40ac901a9cc808ee7b174e.jpg?width=450&height=450&hash=84DC207E06E2E47CA30C7E1C00616909",
+      "description": "Conectivity: USB<br>GPS: GPS/GLONASS<br>BATTERY: LI-ION 2S 2400 MAH + LI PO 2S 1100MAH<br>AUTONOMY: 30 MINS<br>CAMERA: CMOS 1/2.3\" 2.8F <br>CAMERA RESOLUTION: 12MPX <br>VIDEO SPECS: 12MPX SENSOR FULL HD 2.7K MP4",
+      "id": "28"
+    },
+    {
+      "title": "DJI TELLO",
+      "price": "100",
+      "image": "https://s13emagst.akamaized.net/products/15536/15535222/images/res_cbe57babf4104df0ab1d3ac71468980b.jpg?width=450&height=450&hash=D103401825CB9F71BC311EBF91C0C958",
+      "description": "CONECTIVITY: BLUETOOTH USB WI-FI<br> MAX DISTANCE/MAX SPEED: 100M / 8 M/S<br> AUTONOMY: 13 MINS <br>CAMERA RESOLUTION: 5MPX<br> VIDEO SPECS: 12MPX SENSOR HD (2592 x 1936) MP4",
+      "id": "29"
+    },
+    {
+      "title": "DJI MAVIC AIR 2S",
+      "price": "1500",
+      "image": "https://s13emagst.akamaized.net/products/36188/36187149/images/res_23d4e5a34ace563929b32232c9556482.jpg?width=450&height=450&hash=2BB1754D4541489D8087963679133065",
+      "description": "CONECTIVITY: BLUETOOTH <br>GPS: GPS/GLONASS <br>BATTERY: LI-POLIMER 3500 MAH<br> AUTONOMY: 34 MINS <br>CAMERA: CMOS 2.8F <br>CAMERA RESOLUTION: 20MPX<br> VIDEO SPECS: 12MPX SENSOR FULL HD UHD 4K 2.7K 5.3K MP4",
+      "id": "30"
+    },
+    {
+      "title": "DJI FPV",
+      "price": "1500",
+      "image": "https://s13emagst.akamaized.net/products/35437/35436891/images/res_c3e34dc86d8c0950336bd5f502c36a6b.jpg?width=450&height=450&hash=F40FFAF934F8ECFC4A19FEAA27BF4A7F",
+      "description": "CONECTIVITY: FPV<br> GPS: GPS/GLONASS <br>BATTERY: LI-ION 2S 2400 MAH + LI PO 2S 1100MAH <br>AUTONOMY:20 MINS <br>CAMERA: CMOS 1/2.3\" 2.8F  <br>VIDEO SPECS: UHD 4K MP4/MOV",
+      "id": "31"
+    },
+    {
+      "title": "DJI MAVIC 2 PRO",
+      "price": "2000",
+      "image": "https://s13emagst.akamaized.net/products/33964/33963257/images/res_62cbaf5ba9607b8519163e983ed5dc1f.jpg?width=450&height=450&hash=39E0548ACD43AC6AC13A6A2FA8A37B92",
+      "description": "CONECTIVITY: Wi-Fi<br> GPS: GPS/GLONASS BATTERY: LI-Polimer 3850MAH<br> AUTONOMY: 30 MINS<br> CAMERA: CMOS 1\" 11F <br>CAMERA RESOLUTION: 20MPX <br>VIDEO SPECS: 20MPX SENSOR FULL HD 2.7K UHD 4K MP4/MOV/H.264",
+      "id": "32"
+    },
+    {
+      "title": "Canon EOS 2000D",
+      "price": "400",
+      "image": "https://s13emagst.akamaized.net/products/14034/14033809/images/res_a8ce590880cd46319499f2c19b1349a8.jpg?width=450&height=450&hash=01EC0D637293E5B49F180E98CC21B527",
+      "description": "Model: D-SLR<br>Sensor: CMOS 24.1 Mpx (6000 x 4000 RES)<br>Video: FullHD<br>BATTERY: LI-ION 500 shots<br>Lens: Canon EF-S 18-55MM F/3.5-5.6",
+      "id": "33"
+    },
+    {
+      "title": "Canon EOS 250D",
+      "price": "650",
+      "image": "https://s13emagst.akamaized.net/products/21956/21955052/images/res_7cb79c4e20bcd986caf8f50116c47c69.jpg?width=450&height=450&hash=144CA5D63A1BBE73EB55D15CC9569CF9",
+      "description": "MODEL: D-SLR<br> SENSOR: CMOS 24.1 MPX (6000 X 4000 RES)<br> VIDEO: FULLHD HD UHD 4K BATTERY: LI-ION LP-E17<br> LENS: CANON EF-S 18-55MM F/4-5.6<br>",
+      "id": "34"
+    },
+    {
+      "title": "Nikon D7500 ",
+      "price": "1100",
+      "image": "https://s13emagst.akamaized.net/products/5682/5681236/images/res_f2101a0d8d046a8183d3a89f48a971d4.jpg?width=450&height=450&hash=A87C66F6DC71148F6A30F815B2B06DCA",
+      "description": "MODEL: D-SLR <br>SENSOR: CMOS 20.9 MPX (5568 X 3712 RES) <br>VIDEO: UHD 4K<br> BATTERY: LI-ION 950 SHOTS<br> LENS: NIKON F 18-140MM<br>",
+      "id": "35"
+    },
+    {
+      "title": "Nikon D5600",
+      "price": "900",
+      "image": "https://s13emagst.akamaized.net/products/23930/23929932/images/res_ac00fefe09e7524423fbbbba484c4867.jpg?width=450&height=450&hash=5B8427C57226C5F906173D169F8C2A81",
+      "description": "MODEL: D-SLR<br> SENSOR: CMOS 23.5mm x 15.6mm (6000 X 4000 RES)<br> VIDEO: HD FULLHD <br>BATTERY: LI-ION EN-EL14a<br> LENS: Nikkor 18-140MM<br>",
+      "id": "36"
+    },
+    {
+      "title": "Canon EOS-5D IV",
+      "price": "5000",
+      "image": "https://s13emagst.akamaized.net/products/18781/18780635/images/res_f8005656c4bc49eed5a4a5e396fb025f.jpg?width=450&height=450&hash=FDF2BE00D86D2DDA203E0CD46FFADE1B",
+      "description": "MODEL: D-SLR<br> SENSOR: CMOS (6720 X 4480 RES) <br>VIDEO: UHD 4K<br> BATTERY: LI-ION LP-E6N SHOTS <br>LENS: NIKON F 24-105MM<br>",
+      "id": "37"
     }
   ]
 }

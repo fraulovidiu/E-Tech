@@ -2,11 +2,21 @@
 div.container-products {
     width: 700px;
     padding: 100px;
-    margin-left: 600px;
+    margin-left: 400px;
+} 
+
+div.container-products input {
+    border: none;
+    box-shadow: 1px 1px 1px 1px #00000063;
 }
 
+div.container-products textarea{
+    border: none;
+    box-shadow: 1px 1px 1px 1px #00000063;
+}
 h5{
-    margin-left:160px
+    margin-left:160px;
+    margin-bottom: 70px;
 }
 
 .form-control {
@@ -18,7 +28,7 @@ h5{
     }
 
 #add-product {
-    margin:50px 0px 100px 200px;
+    margin:50px 0px 100px 180px;
 }
 
 /* ADMIN  TABLE*/

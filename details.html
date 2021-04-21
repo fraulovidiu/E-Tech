@@ -5,28 +5,35 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./node_modules/font-awesome/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css"/>
-    <link rel="stylesheet" href="./node_modules/bootswatch/dist/lux/bootstrap.min.css"/>
+    <link rel="stylesheet" href="./node_modules/bootswatch/dist/lux/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="details.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 <body>
     <!-- Navbar -->
-    <nav class="navbar navbar-dark bg-secondary mb-3">
-    <div class="container">
-        <a href="index.html" class="navbar-brand" style="color: black">E-Tech</a>
-    </div> 
-    <ul class="navbar-btn">
+    <nav class="navbar">
+
+        <a href="index.html" class="navbar-logo"><img src="./images/E-TECH.png" class="logo"></a>
+      </div> 
+      <ul class="navbar-btn">
         <li>
         <a href="cart.html"><i class="fas fa-shopping-cart" aria-hidden="true"></i></a>
-        <a href="admin.html"><i class="fas fa-user-shield" aria-hidden="true"></i></a>
-    </li>
-    </ul>
+        <a href="login.html"><i class="fas fa-user-shield" aria-hidden="true"></i></a>
+      </li>
+      </ul>
     </nav>
     <div id="product-details"></div>
-
+<footer>
+    <div class="footer-content">
+        <p>Don't forget to follow us on social media!</p>
+        <ul class="social">
+            <li><a href="https://www.facebook.com/etech1997"><i class="fab fa-facebook-f"></i></a></li>
+            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+        </ul>
+    </div>
+</footer>
     <script src="src/app.js" type="module"></script>
     <script src="src/details.js" type="module"></script>
 </body>

@@ -1,32 +1,69 @@
-
-* {
-    margin: 0px;
-    padding: 0px;
+html, body{
+    height: 100%;
 }
-
-img.card-img1 {
-width: 400px;
-margin:100px 0px 0px 300px;
+nav.navbar {
+    margin-bottom: 210px;
+    background: #276678;
+    /* height:   130px; */
+}
+div#product-details {
+    height: 50rem;
+}
+.col-md-5 img {
+    margin-left: 300px;
+    width: 30rem;
 }
 
 .col-md-7 {
-    margin-top: 100px;
-    padding: 20px;
-    display: ;
-}
-
-.card-description {
-    margin: 50px 0px 50px 300px;
-    width: 500px;
-    height: ;
+    margin-top: 45px;
+    display: block;
+    justify-content: center;
+    align-items: center;
     text-align: center;
 }
 
-h5.card-price1 {
-    margin:
+.prod-title{
+    margin-bottom: 70px;
+}
+.col-md-7 img {
+    margin-top: 0px ;
+    background: white;
+    width: 200px;
 }
 
-input.quantity {
-    margin-left:500px;
-    /* padding: 20px; */
+.col-md-7 input#quantity {
+    margin:50px 0px 0px 0px;
 }
+
+h5.card-price1 {
+    margin-top: 100px;
+}
+.col-md-7 button {
+    padding: 10px;
+    margin-left: 40px;
+}
+
+footer  {
+    background: #276678;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+div.footer-content p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: white;
+}
+div.footer-content ul.social i {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.fab {
+    opacity: 0.6;
+    transition 0.3s;
+}
+
+.fab:hover {opacity: 1}

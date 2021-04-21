@@ -1,0 +1,45 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background: #276678;
+}
+
+div.loginForm {
+    border: white 2px;
+    border-radius: 50px;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 200px 0px 50px 550px;
+    max-width: 400px;
+}
+
+
+
+div.container {
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+
+.imgcontainer {
+    margin-bottom: 10px;
+}
+
+a button {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 30px;
+    margin-top: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: #276678;
+    border: white;
+    border-style: solid;
+    width: 200px;
+}
+
+h1 {
+    margin-left: 25px;
+    color:#d3e0ea;
+}

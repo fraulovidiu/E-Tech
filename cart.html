@@ -4,30 +4,47 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cart</title>
+    <title>Shopping Cart</title>
     <link rel="stylesheet" href="./node_modules/font-awesome/css/font-awesome.min.css"/>
     <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="./node_modules/bootswatch/dist/lux/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="cart.css">
 </head>
 <body>
-    <div id="cart-div">
-        <table id="cart-table">
-            <thead>
+    <nav class="navbar sticky-top">
+        <a href="index.html" class="navbar-logo"><img src="./images/E-TECH.png" class="logo"></a>
+      </div> 
+      <ul class="navbar-btn">
+        <li>
+        <a href="cart.html"><i class="fas fa-shopping-cart" aria-hidden="true"></i></a>
+        <a href="admin.html"><i class="fas fa-user-shield" aria-hidden="true"></i></a>
+      </li>
+      </ul>
+    </nav>
+    <!-- END OF NAVBAR -->
+        <div id="cart-div">
+        <table id="cart-table" class="table">
+            <thead class="thead-white">
                 <tr>
-                    <th>Image</th>
-                    <th>Title</th>
-                    <th>Price</th>
-                    <th>Quantity</th>
-                    <th>Delete Product</th>
+                    <th scope="col">Image</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Quantity</th>
+                    <th scope="col">Subtotal</th>
+                    <th scope="col">Delete Product</th>
                 </tr>
             </thead>
             <tbody id="cart-body">
             </tbody>
         </table>
+        <div class="log-lg-4 offset-lg-4">
         <span id="total" value=""><strong>Total: </strong></span>
     </div>
+</div>
     <script src="src/app.js" type="module"></script>
+    <script src="src/details.js" type="module"></script>
     <script src="src/cart.js" type="module"></script>
 </body>
 
