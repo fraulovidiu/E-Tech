@@ -8,3 +8,4 @@ window.onload = () => {
 		.then((data) => ui.showDetails(data));
 	}
 }
+

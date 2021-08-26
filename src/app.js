@@ -34,7 +34,6 @@ function addNewProduct() {
 }
 
 
-
 document.getElementById('admin-control').addEventListener('click', deleteProduct);
 
 function deleteProduct(e) {
@@ -47,6 +46,4 @@ function deleteProduct(e) {
 	}
 }
 
-function showProducts () {
-	
-}
+

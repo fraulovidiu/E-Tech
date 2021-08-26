@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "1",
-      "title": "Apple Iphone 12 Pro Max Blue",
+      "title": "Apple Iphone 12 Pro Max Gold",
       "price": 1099,
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/143563_2.jpg",
       "description": "Processor: Apple A14 Bionic <br> Storage: 512 GB <br> Display: 6.7 inches <br> Camera: 12 MP (wide) + 12 MP (telephoto) + 12 MP (ultrawide) cameras"
@@ -33,7 +33,7 @@
       "title": "Samsung S21 Ultra Black",
       "price": 1450,
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/144717_6.jpg",
-      "description": "Processor: Exynos 2100 (8-core) <br> Storage: 128GB <br> Display: 6.8 inches <br> Camera: 12MP (ultrawide) + 108MP (wide) + 10MP (telephoto) + 10MP (Periscope Telephoto) "
+      "description": "Processor: Exynos 2100 (8-core) <br> Storage: 128GB <br> Display: 6.8 inches <br> Camera: 12MP (ultrawide) + 10MP (wide) + 10MP (telephoto) + 10MP (Periscope Telephoto) "
     },
     {
       "id": "6",
@@ -79,7 +79,7 @@
     },
     {
       "title": "Samsung Galaxy A21s",
-      "price": "180$",
+      "price": "180",
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/140727_2.jpg",
       "description": "Processor: Cortex-A55 (8-core)<br>Storage: 32 GB<br>Display: 6.5 inches <br>Camera: 48 MP (wide) + 8 MP (ultrawide)+ 2 MP + (macro) +2 MP (depth)",
       "id": "12"
@@ -99,7 +99,7 @@
       "id": "14"
     },
     {
-      "title": " Lenovo IdeaPad 3 14AD05",
+      "title": " Lenovo IdeaPad 3",
       "price": "600",
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/144957-1.jpg",
       "description": "DISPLAY SIZE: 14 INCH FULL HD (1920 X 1080) <br>PROCESSOR: AMD RYZEN 5 @2100MHz<br> MEMORY: 8 GB RAM DDR4 ; 256GB SSD <br>GPU: AMD RADEON GRAPHICS VEGA 8<br> PORTS: 2 X USB 3.2 ; 1 X USB 2.0<br> OS: WINDOWS 10 PRO",
@@ -113,7 +113,7 @@
       "id": "16"
     },
     {
-      "title": "Lenovo Legion 5 17IMH05",
+      "title": "Lenovo Legion 5 ",
       "price": "1050",
       "image": "https://s1.flanco.ro/catalog/product/cache/368/image/400x400/9df78eab33525d08d6e5fb8d27136e95/1/4/143105-1.jpg",
       "description": "DISPLAY SIZE: 17,3 INCH FULL HD (1920 X 1080)<br> PROCESSOR: INTEL CORE I5 @2500MHZ<br> MEMORY: 8 GB RAM DDR4 ; 512GB SSD <br>GPU: DEDICATED NVIDIA GEFORCE GTX1650 4GB DDR6 <br>PORTS: 3 X USB 4.0 ; 1 X USB TYPE-C <br>OS: WINDOWS 10 PRO",
@@ -258,6 +258,41 @@
       "image": "https://s13emagst.akamaized.net/products/18781/18780635/images/res_f8005656c4bc49eed5a4a5e396fb025f.jpg?width=450&height=450&hash=FDF2BE00D86D2DDA203E0CD46FFADE1B",
       "description": "MODEL: D-SLR<br> SENSOR: CMOS (6720 X 4480 RES) <br>VIDEO: UHD 4K<br> BATTERY: LI-ION LP-E6N SHOTS <br>LENS: NIKON F 24-105MM<br>",
       "id": "37"
+    },
+    {
+      "title": "JBL CHARGE4",
+      "price": "150",
+      "image": "https://s13emagst.akamaized.net/products/17250/17249550/images/res_1df17a36dd46f53ccad71c8935ead1bf.jpg?width=450&height=450&hash=60850A3C004443BCA447065AE74324D0",
+      "description": "Conectivity: Bluetooth 4.2 ; 10M Range<br>4Battery: 7500mAh Li-Ion w/ 20h autonomy<br>4Audio: 30 W, 80dB sensivity (60-20000HZ)<br>4",
+      "id": "38"
+    },
+    {
+      "title": "JBL FLIP5",
+      "price": "130",
+      "image": "https://s13emagst.akamaized.net/products/24492/24491640/images/res_7d82e63939b5e9e710335e9c165bcd0e.jpg?width=450&height=450&hash=ACBBD1AFB0B9F6310623B3F20F1FED2C",
+      "description": "Conectivity: Bluetooth 4.2, USB-C w/ 10m Range<br>Battery: 4800 mAh Li-Ion w/ 12h autonomy <br>Sound: 20W(65-20000hz)",
+      "id": "39"
+    },
+    {
+      "title": "Sony SRS-XB12L",
+      "price": "40",
+      "image": "https://s13emagst.akamaized.net/products/21378/21377510/images/res_d4ae700af0b8f3faaaed7d0f2092cfbb.jpg?width=450&height=450&hash=9A69347CA49A4B122D18E3EEED754A92",
+      "description": "Conectivity: Bluetooth 4.2 w/ 10m Range<br>Battery: 1400 mAh Li-Ion w/ 16 autonomy<br>Audio: (20-20000) hz frequency<br>",
+      "id": "40"
+    },
+    {
+      "title": "JBL Clip 4",
+      "price": "50",
+      "image": "https://s13emagst.akamaized.net/products/34224/34223519/images/res_0600bc2d9ef391ec1a6a47a157bf366c.jpg?width=450&height=450&hash=FFE3E1F6B449B04AEF2F7EB1B9E28500",
+      "description": "Conectivity: Bluetooth 5.1 <br>Battery: Li-Ion w/ 10h autonomy<br>Audio: 5W (100-20000)HZ ",
+      "id": "41"
+    },
+    {
+      "title": "JBL BOOMBOX",
+      "price": "450",
+      "image": "https://s13emagst.akamaized.net/products/8820/8819143/images/res_84f46d8d1f767843d1448788d50b36d7.jpg?width=450&height=450&hash=103B4D3B8BFF3FBB928E0911DA093B60",
+      "description": "Conectivity: Bluetooth 4.2<br>Battery: 20000mAh Li-Ion w/ 24h autonomy<br>4Audio: 60W (50-20000)hz",
+      "id": "42"
     }
   ]
 }

@@ -14,6 +14,7 @@ class  UI {
         this.quantity = document.getElementById('quantity');
         this.total = document.getElementById('total');
         this.subtotal = document.getElementById('subtotal');
+        this.adddedToCart = document.getElementById('addProductToCart')
     }
 
     showProducts(products) {
@@ -49,12 +50,12 @@ class  UI {
                         <h6 class="card-description">${product.description}</h6>
                         <h5 class="card-price1 d-flex justify-content-center">Price:${product.price}$</h5>
                         <input id="quantity" type="number" min="1" max="10">
-                        <button  id="addProductToCart" type="button" class="btn btn-success rounded">Add to Cart</button>
+                        <button onclick="addCart()" id="addProductToCart" type="button" class="btn btn-success rounded">Add to Cart</button>
                         <div><img src="./images/paypal.png" class="secureCheck"></div>
                         <div class="delivery">
-                            <img src="./images/dhl.jpg" class="dhl">
-                                <img src="./images/fedex.jpg" class="fedex">
-                                    <img src="./images/ups.jpg" class="ups">
+                            <a href="https://www.dhl.com"><img src="./images/dhl.jpg" class="dhl"></a>
+                            <a href="https://www.fedex.com"><img src="./images/fedex.jpg" class="fedex"></a>
+                            <a href="https://www.ups.com"><img src="./images/ups.jpg" class="ups"></a>
                         <div>
                     </div>
                 </d>
